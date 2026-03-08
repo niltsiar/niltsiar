@@ -42,8 +42,8 @@ raistlin
 ### `$ cat stats.log`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/niltsiar/niltsiar/output/github-stats.svg" height="170" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/niltsiar/niltsiar/output/top-langs.svg" height="170" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/niltsiar/niltsiar/main/profile-summary-card-output/github_dark/3-stats.svg" height="170" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/niltsiar/niltsiar/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="170" alt="Top Languages" />
 </div>
 
 <br/>
