@@ -1,7 +1,7 @@
 <!-- "Time is a flowing river, and the wizard who tries to master it is swept away." -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D68F&center=true&vCenter=true&repeat=true&width=500&lines=%24+.%2Fwelcome.sh;Senior+Android+Developer;Kotlin+%26+Compose+Enthusiast;17%2B+years+crafting+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D68F&center=true&vCenter=true&repeat=true&width=700&lines=%24+.%2Fwelcome.sh;Senior+Android+Developer;Kotlin+%26+Compose+Enthusiast;17%2B+years+crafting+code" alt="Typing SVG" />
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=niltsiar&color=00d68f&style=flat-square&label=visitors" alt="Profile views" />
 </div>
@@ -42,8 +42,8 @@ raistlin
 ### `$ cat stats.log`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niltsiar&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=00d68f&text_color=c9d1d9&icon_color=00d68f&border_color=30363d" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltsiar&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d68f&text_color=c9d1d9&border_color=30363d" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niltsiar&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=00d68f&text_color=c9d1d9&icon_color=00d68f&border_color=30363d&cache_seconds=86400" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltsiar&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d68f&text_color=c9d1d9&border_color=30363d&cache_seconds=86400" height="170" alt="Top Languages" />
 </div>
 
 <br/>
