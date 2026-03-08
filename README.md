@@ -42,8 +42,8 @@ raistlin
 ### `$ cat stats.log`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niltsiar&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=00d68f&text_color=c9d1d9&icon_color=00d68f&border_color=30363d&cache_seconds=86400" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltsiar&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d68f&text_color=c9d1d9&border_color=30363d&cache_seconds=86400" height="170" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/niltsiar/niltsiar/output/github-stats.svg" height="170" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/niltsiar/niltsiar/output/top-langs.svg" height="170" alt="Top Languages" />
 </div>
 
 <br/>

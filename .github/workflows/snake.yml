@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -23,6 +23,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Fetch stats card SVGs
+        continue-on-error: true
+        run: |
+          curl -sf --retry 3 --retry-delay 10 -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=niltsiar&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=00d68f&text_color=c9d1d9&icon_color=00d68f&border_color=30363d&cache_seconds=86400"
+          curl -sf --retry 3 --retry-delay 10 -o dist/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=niltsiar&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d68f&text_color=c9d1d9&border_color=30363d&cache_seconds=86400"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
