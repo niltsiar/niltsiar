@@ -68,6 +68,6 @@ raistlin
 
 <div align="center">
 
-:globe_with_meridians: **[borja.quevedo.dev](https://borja.quevedo.dev)** — *my portfolio rotates through 6 different designs daily*
+:globe_with_meridians: **[borja.quevedo.dev](https://borja.quevedo.dev)**
 
 </div>
